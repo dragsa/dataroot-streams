@@ -14,6 +14,8 @@ logs/*
 # sbt specific
 target/
 lib/
+data/
+data_new/
 project/project/*
 project/target/*
 lib_managed/*
